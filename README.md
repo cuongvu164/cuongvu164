@@ -3,7 +3,7 @@
 <img src="https://github.com/cuongvu164/github-stars/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/cuongvu164/github-stars/blob/master/generated/languages.svg#gh-light-mode-only" />
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongvu164)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cuongvu164/cuongvu164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
