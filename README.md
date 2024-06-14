@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/cuongvu164/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cuongvu164/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **cuongvu164/cuongvu164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
