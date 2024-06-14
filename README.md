@@ -1,6 +1,9 @@
-## Hi there 👋
-![](https://raw.githubusercontent.com/cuongvu164/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cuongvu164/github-stats/master/generated/languages.svg#gh-light-mode-only)
+## Hi there I'm Cuong👋
+<div style="display: flex; gap: 10px">
+<img src="https://github.com/cuongvu164/github-stars/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/cuongvu164/github-stars/blob/master/generated/languages.svg#gh-light-mode-only" />
+</div>
+
 <!--
 **cuongvu164/cuongvu164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
